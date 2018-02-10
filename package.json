@@ -1,0 +1,25 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorfrese/portfolio_website.git"
+  },
+  "author": "Trevor Frese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevorfrese/portfolio_website/issues"
+  },
+  "homepage": "https://github.com/trevorfrese/portfolio_website#readme",
+  "dependencies": {
+    "dotenv": "5.0.0",
+    "express": "4.16.2",
+    "moment": "2.20.1",
+    "request": "2.83.0"
+  }
+}
